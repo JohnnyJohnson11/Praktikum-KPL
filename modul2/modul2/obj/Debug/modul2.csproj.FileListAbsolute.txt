@@ -1,0 +1,11 @@
+D:\PraktikumKPL\modul2\modul2\bin\Debug\modul2.exe.config
+D:\PraktikumKPL\modul2\modul2\bin\Debug\modul2.exe
+D:\PraktikumKPL\modul2\modul2\bin\Debug\modul2.pdb
+D:\PraktikumKPL\modul2\modul2\obj\Debug\modul2.csproj.AssemblyReference.cache
+D:\PraktikumKPL\modul2\modul2\obj\Debug\modul2.Form1.resources
+D:\PraktikumKPL\modul2\modul2\obj\Debug\modul2.Properties.Resources.resources
+D:\PraktikumKPL\modul2\modul2\obj\Debug\modul2.csproj.GenerateResource.cache
+D:\PraktikumKPL\modul2\modul2\obj\Debug\modul2.csproj.CoreCompileInputs.cache
+D:\PraktikumKPL\modul2\modul2\obj\Debug\modul2.exe
+D:\PraktikumKPL\modul2\modul2\obj\Debug\modul2.pdb
+D:\PraktikumKPL\modul2\modul2\obj\Debug\modul2.Resource1.resources
